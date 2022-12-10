@@ -1,1 +1,2 @@
-print("Nou I am 100% sure I know")
+print("Nou I am 101% sure I know")
+print("easy peasy")
